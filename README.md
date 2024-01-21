@@ -1,2 +1,3 @@
 # Capstone-Project-CrossCorrelation-Code
 Collection of Matlab code used for cross correlation in the Capstone Project "Image Analysis of 2D Nanoparticle flow in Microchannels". 
+This repository contains a breakdown of cross correlation code which was created for my Capstone Project in "Image Analysis of 2D nanoparticle flow in Microchannels". This code includes sections which were used to perform cross correlation via xcorr, xcorr2 and FFT methods for the purpose of obtaining velocity profiles of the fluid flow displayed in the images which were to be analysed. These sections are here with detailed descriptions in case it is warranted that the code be reviewed.
